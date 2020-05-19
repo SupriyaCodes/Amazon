@@ -49,6 +49,7 @@ public class Login_Excel {
       driver.get("https://facebook.com");	 
 
       driver.manage().window().maximize();
+      System.out.println("Check");
   }	
 
   @Test(dataProvider = "Authentication")
