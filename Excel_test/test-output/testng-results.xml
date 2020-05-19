@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="187070" started-at="2020-05-18T05:55:02Z" finished-at="2020-05-18T05:58:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="187070" started-at="2020-05-18T05:55:02Z" finished-at="2020-05-18T05:58:09Z">
+      <class name="Excel_Login_Demo.Login_Excel">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Excel_Login_Demo.Login_Excel@3ee0fea4]" name="beforeMethod" is-config="true" duration-ms="23126" started-at="2020-05-18T05:55:03Z" finished-at="2020-05-18T05:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:Excel_Login_Demo.Login_Excel@3ee0fea4]" name="f" duration-ms="4076" started-at="2020-05-18T05:55:26Z" data-provider="Authentication" finished-at="2020-05-18T05:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testdata228@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[GmailPass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Excel_Login_Demo.Login_Excel@3ee0fea4]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-05-18T05:55:30Z" finished-at="2020-05-18T05:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Excel_Login_Demo.Login_Excel -->
+      <class name="Excel_Login_Demo.Login_Multiple">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="beforeMethod" is-config="true" duration-ms="32803" started-at="2020-05-18T05:55:31Z" finished-at="2020-05-18T05:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="f" duration-ms="3432" started-at="2020-05-18T05:56:03Z" data-provider="Authentication" finished-at="2020-05-18T05:56:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Suppu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[suppu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[suganya@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="afterMethod" is-config="true" duration-ms="4441" started-at="2020-05-18T05:56:07Z" finished-at="2020-05-18T05:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="beforeMethod" is-config="true" duration-ms="16789" started-at="2020-05-18T05:56:11Z" finished-at="2020-05-18T05:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="f" duration-ms="10483" started-at="2020-05-18T05:56:28Z" data-provider="Authentication" finished-at="2020-05-18T05:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sukku]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sUKKu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[supu@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="afterMethod" is-config="true" duration-ms="4413" started-at="2020-05-18T05:56:39Z" finished-at="2020-05-18T05:56:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="beforeMethod" is-config="true" duration-ms="17643" started-at="2020-05-18T05:56:43Z" finished-at="2020-05-18T05:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="f" duration-ms="3476" started-at="2020-05-18T05:57:01Z" data-provider="Authentication" finished-at="2020-05-18T05:57:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prasu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[prAsu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[prasanna@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="afterMethod" is-config="true" duration-ms="4467" started-at="2020-05-18T05:57:04Z" finished-at="2020-05-18T05:57:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="beforeMethod" is-config="true" duration-ms="21244" started-at="2020-05-18T05:57:09Z" finished-at="2020-05-18T05:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="f" duration-ms="3710" started-at="2020-05-18T05:57:30Z" data-provider="Authentication" finished-at="2020-05-18T05:57:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testdata228@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[GmailPass1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[testdata228@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="afterMethod" is-config="true" duration-ms="4555" started-at="2020-05-18T05:57:34Z" finished-at="2020-05-18T05:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="beforeMethod" is-config="true" duration-ms="22252" started-at="2020-05-18T05:57:38Z" finished-at="2020-05-18T05:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="f" duration-ms="3875" started-at="2020-05-18T05:58:00Z" data-provider="Authentication" finished-at="2020-05-18T05:58:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ABC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[def]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Excel_Login_Demo.Login_Multiple@48524010]" name="afterMethod" is-config="true" duration-ms="4542" started-at="2020-05-18T05:58:04Z" finished-at="2020-05-18T05:58:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Excel_Login_Demo.Login_Multiple -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
